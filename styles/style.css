@@ -219,8 +219,6 @@ body {
   color: #fff;
   inline-size: 225px;
   padding: 0;
-  background-color: transparent;
-  appearance: none;
 }
 
 .search-form__textfield::placeholder {
