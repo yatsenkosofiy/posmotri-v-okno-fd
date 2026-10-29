@@ -39,7 +39,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  padding: 133px 30px;
+  min-height: 800px;
 }
 
 .content {
