@@ -35,13 +35,11 @@ ol {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 1200px;
-  height: 800px;
-  margin: auto;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  padding: 133px 30px;
 }
 
 .content {
@@ -65,7 +63,6 @@ ol {
   height: 386px;
   width: 711px;
   margin-block-end: 16px;
-  margin-block-start: 78px;
 }
 
 .result__video {
