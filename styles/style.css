@@ -49,7 +49,7 @@ ol {
   inline-size: 1140px;
   height: 534px;
   gap: 30px;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .result {
