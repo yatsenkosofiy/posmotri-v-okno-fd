@@ -33,6 +33,7 @@ ol {
 
 .page {
   display: flex;
+  position: relative;
   justify-content: center;
   align-items: center;
   color: #fff;
@@ -46,6 +47,7 @@ ol {
   display: flex;
   flex-direction: row;
   align-items: flex-end;
+  position: absolute;
   inline-size: 1140px;
   height: 534px;
   gap: 30px;
